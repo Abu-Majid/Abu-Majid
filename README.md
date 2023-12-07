@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abu-Majid AKA Amjad Al-Basrawi.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning HTML5 , CSS , JS.
+- 📫 How to reach me at amjdminecraft94@gmail.com.
